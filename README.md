@@ -1,1 +1,2 @@
 # AI-Smart-Home-Security-System
+Innovative AI-driven smart home security system designed to enhance safety and convenience. Equipped with advanced computer vision and machine learning, it detects potential threats such as fire, intrusions, and unusual activities in real-time. Features include automated alerts, remote monitoring, and actionable notifications, providing peace of mind and proactive protection for your home.
